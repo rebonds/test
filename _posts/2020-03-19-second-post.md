@@ -4,11 +4,10 @@ date: 2020-03-19
 layout: post
 ---
 
-text
 
-$$\begin{aligned}
+\\[\begin{aligned}
 E = mc^2
-\end{aligned}$$
+\end{aligned}\\]
 
 text
 
