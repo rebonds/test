@@ -13,7 +13,6 @@ header_pages:
 
 include:
     - _pages
-    - _posts
 
 exclude: 
     - README.md
