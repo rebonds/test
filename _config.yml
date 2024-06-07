@@ -16,3 +16,4 @@ include:
 
 exclude: 
     - README.md
+    - post1.md
