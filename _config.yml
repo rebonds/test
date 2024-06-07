@@ -1,2 +1,20 @@
 title: supertest
 theme: jekyll-theme-minimal
+
+# Minima: show excerpts in the frontpage
+show_excerpts: true
+
+minima:
+  date_format: "%Y-%m-%d"
+
+# Minima: custom header links
+header_pages:
+  - _pages/frontpage.md
+  - _pages/about.md
+  - _pages/archive.md
+
+include:
+    - _pages
+
+exclude: 
+    - README.md
