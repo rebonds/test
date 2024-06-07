@@ -1,5 +1,5 @@
 title: supertest
-theme: jekyll-theme-minimal
+theme: minima
 
 # Minima: show excerpts in the frontpage
 show_excerpts: true
@@ -13,6 +13,7 @@ header_pages:
 
 include:
     - _pages
+    - _posts
 
 exclude: 
     - README.md
