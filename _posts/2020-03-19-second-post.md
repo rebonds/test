@@ -6,8 +6,13 @@ layout: post
 
 text
 
+$$\begin{aligned}
+E = mc^2
+\end{aligned}$$
+
+text
+
 $$\begin{bmatrix}
 a & b \\
 c & d
 \end{bmatrix}$$
-
